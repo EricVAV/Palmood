@@ -13,7 +13,7 @@ Sistema web de venda de plantas e produtos para jardinagem onde o usuário escol
 - HTML, CSS e JavaScript
 
 ## Como rodar
-**pedente**
+**pendente**
 1. Instale o XAMPP e ligue Apache e MySQL.
 2. Copie a pasta `Palmood` para `C:\xampp\htdocs`.
 3. No phpMyAdmin, importe `database/Palmood.sql`.
@@ -21,7 +21,7 @@ Sistema web de venda de plantas e produtos para jardinagem onde o usuário escol
 
 
 ## Usuário de teste
-**pedente**
+**pendente**
   
 ## Documentação
 - Requisitos: `docs/requisitos.md`
