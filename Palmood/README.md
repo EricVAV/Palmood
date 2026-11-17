@@ -1,4 +1,4 @@
-# Palmmood
+# Palmood
 
 Sistema web de venda de plantas e produtos para jardinagem onde o usuário escolhe o produto, a forma de pagamento, e recebe sua compra em casa.
 
