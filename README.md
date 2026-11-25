@@ -26,10 +26,10 @@ Passos detalhados pendente.
 - E-mail: eric@email.com
 - Senha: 123456
   
-  ## Documentação
-- Requisitos: pendente
-- Banco de dados: pendente
-- Manual do usuário: pendente
+ ## Documentação
+- Requisitos: `docs/requisitos.md`
+- Banco de dados: `docs/banco.md`
+- Manual do usuário: `docs/manual.md`
 
   ## Equipe
 - Eric Ferreira (Full Stack)
