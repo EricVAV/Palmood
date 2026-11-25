@@ -20,7 +20,7 @@ Plants store website project
 3. No phpMyAdmin, importe `palmood.sql`.
 4. Acesse http://localhost/Palmood/index.php
 
-Passos detalhados pendente.
+Passos detalhados `docs/instalacao.md`.
 
    ## Usuário de teste
 - E-mail: eric@email.com
